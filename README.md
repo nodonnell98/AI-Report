@@ -1,7 +1,12 @@
 # AI-Report
-An academic report on Artifical Intelligence
+This is an academic report on Artifical Intelligence that discusses the ideas and principles of AI as well as exploring the practical application of this technology.
 
+### Areas covered
 
-This was a report created for a university module on artifical intelligence. Some of the content includes analysing its role 
-in disaster scenarios, the future of AI and what actually defines intelligence
+The areas covered in this report are:
+* What is intelligence?
+* Test Driven Development and Reinforcement Learning 
+* Autonomous Mobile Robotics
+* Big Data
 
+##### This report was created as part of a univerisity of plymouth module on artificial intelligence
